@@ -1,7 +1,7 @@
-package br.edu.ufrn.phenolicsdb.service;
+package br.edu.ufrn.tanninsdb.service;
 
-import br.edu.ufrn.phenolicsdb.config.OrcidProperties;
-import br.edu.ufrn.phenolicsdb.dto.OrcidTokenResponse;
+import br.edu.ufrn.tanninsdb.config.OrcidProperties;
+import br.edu.ufrn.tanninsdb.dto.OrcidTokenResponse;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
 import org.springframework.util.LinkedMultiValueMap;

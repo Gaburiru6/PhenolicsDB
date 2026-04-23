@@ -1,4 +1,4 @@
-package br.edu.ufrn.phenolicsdb.config;
+package br.edu.ufrn.tanninsdb.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

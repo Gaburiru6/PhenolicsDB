@@ -1,4 +1,4 @@
-package br.edu.ufrn.phenolicsdb;
+package br.edu.ufrn.tanninsdb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package br.edu.ufrn.phenolicsdb;
+package br.edu.ufrn.tanninsdb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

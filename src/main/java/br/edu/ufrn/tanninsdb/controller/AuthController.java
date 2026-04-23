@@ -1,8 +1,8 @@
-package br.edu.ufrn.phenolicsdb.controller;
+package br.edu.ufrn.tanninsdb.controller;
 
-import br.edu.ufrn.phenolicsdb.config.OrcidProperties;
-import br.edu.ufrn.phenolicsdb.dto.OrcidTokenResponse;
-import br.edu.ufrn.phenolicsdb.service.OrcidService;
+import br.edu.ufrn.tanninsdb.config.OrcidProperties;
+import br.edu.ufrn.tanninsdb.dto.OrcidTokenResponse;
+import br.edu.ufrn.tanninsdb.service.OrcidService;
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.web.bind.annotation.*;
 

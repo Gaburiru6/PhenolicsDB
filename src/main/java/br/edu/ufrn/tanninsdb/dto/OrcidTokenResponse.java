@@ -1,4 +1,4 @@
-package br.edu.ufrn.phenolicsdb.dto;
+package br.edu.ufrn.tanninsdb.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
